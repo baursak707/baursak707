@@ -2,8 +2,7 @@
   <img src="banner.png" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Zhansaya 👋
-  <br> You can call me just Saya</h1>
+<h1 align="center">👋 Hi, I'm Zhansaya (or Saya)</h1>
 <h3 align="center">
   Aspiring Sofware engineer | Creative Developer
 </h3>
