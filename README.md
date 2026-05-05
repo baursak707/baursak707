@@ -12,6 +12,7 @@
 I am learning programming and building creative projects.  
 I enjoy combining technology, design, and real-life problem solving.
 
+
 ## ᓚᘏᗢ Featured Project
 
 ### 🌊 WaveWare — Beach Shop Simulation
@@ -19,11 +20,13 @@ I enjoy combining technology, design, and real-life problem solving.
 WaveWare is a Python console application that simulates a beach shop experience.  
 Users can browse products, add items to a cart, and receive a structured receipt.
 
+
 ## (⌐■_■) Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,html,css,js,github,vscode" />
 </p>
+
 
 ## (☆▽☆) Current Goals
 
