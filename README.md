@@ -3,9 +3,9 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Zhansaya (or Saya)</h1>
-<h3 align="center">
+<h5 align="center">
   Aspiring Sofware engineer | Creative Developer
-</h3>
+</h5>
 
 ---
 
