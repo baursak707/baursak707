@@ -2,7 +2,8 @@
   <img src="banner.png" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Zhansaya 👋 \n You can call me just Saya</h1>
+<h1 align="center">Hi, I'm Zhansaya 👋 white-space: pre-line; 
+  You can call me just Saya</h1>
 
 <p align="center">
   Aspiring Sofware engineer | Creative Developer
