@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">Hi, I'm Zhansaya 👋
-           You can call me just Saya</h1>
-<h2 align="center">
+  <br> You can call me just Saya</h1>
+<h3 align="center">
   Aspiring Sofware engineer | Creative Developer
-</h2>
+</h3>
 
 ---
 
