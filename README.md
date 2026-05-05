@@ -1,16 +1,47 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
 
-<!--
-**baursak707/baursak707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Zhansaya 👋 \n You can call me just Saya</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Aspiring Sofware engineer | Creative Developer
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## (👉ﾟヮﾟ)👉 About Me
+
+I am learning programming and building creative projects.  
+I enjoy combining technology, design, and real-life problem solving.
+
+---
+
+## ᓚᘏᗢ Featured Project
+
+### 🌊 WaveWare — Beach Shop Simulation
+
+WaveWare is a Python console application that simulates a beach shop experience.  
+Users can browse products, add items to a cart, and receive a structured receipt.
+
+---
+
+## (⌐■_■) Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,github,vscode" />
+</p>
+
+---
+
+## (☆▽☆) Current Goals
+
+- Build more real projects
+- Learn GitHub professionally
+- Create beautiful and useful applications
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! ✨</b>
+</p>
