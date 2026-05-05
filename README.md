@@ -2,12 +2,11 @@
   <img src="banner.png" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Zhansaya 👋 white-space: pre-line; 
-  You can call me just Saya</h1>
-
-<p align="center">
+<h1 align="center">Hi, I'm Zhansaya 👋
+           You can call me just Saya</h1>
+<h2 align="center">
   Aspiring Sofware engineer | Creative Developer
-</p>
+</h2>
 
 ---
 
