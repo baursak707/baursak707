@@ -42,5 +42,5 @@ Users can browse products, add items to a cart, and receive a structured receipt
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile! ✨</b>
+  <h4>Thanks for visiting my profile! く⁠コ⁠:⁠彡</h4>
 </p>
