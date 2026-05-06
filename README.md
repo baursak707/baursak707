@@ -1,4 +1,3 @@
-<h1 align="center">👋 Hi, I'm Zhansaya </h1>
 <h3 align="center">
 Aspiring Sofware engineer | Creative Developer
 </h3>
