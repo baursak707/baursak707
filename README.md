@@ -15,7 +15,7 @@ I enjoy combining technology, design, and real-life problem solving.
 
 ## ᓚᘏᗢ Featured Project
 
-### 🌊 WaveWare — Beach Shop Simulation
+### 🌊 Wave-Ware — Beach Shop Simulation
 
 WaveWare is a Python console application that simulates a beach shop experience.  
 Users can browse products, add items to a cart, and receive a structured receipt.
