@@ -27,7 +27,7 @@ Users can browse products, add items to a cart, and receive a structured receipt
 
 - Build more real projects
 - Learn GitHub professionally
-- Create beautiful and useful applications
+- Create cool and useful applications
 
 <p align="center">
   <b>Thanks for visiting my profile! く⁠コ⁠:⁠彡</b>
