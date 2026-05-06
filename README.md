@@ -1,6 +1,6 @@
-<h3 align="center">
+<h2 align="center">
 Aspiring Sofware engineer | Creative Developer
-</h3>
+</h2>
 
 ## (👉ﾟヮﾟ)👉 About Me
 
