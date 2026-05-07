@@ -12,7 +12,7 @@ I enjoy combining technology, design, and real-life problem solving.
 
 ### 🌊 Coral-Wave — Beach Shop Simulation
 
-CoralWave is a Python console application that simulates a beach shop experience.  
+Coral-Wave is a Python console application that simulates a beach shop experience.  
 Users can browse products, add items to a cart, and receive a structured receipt.
 
 
