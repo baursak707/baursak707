@@ -10,9 +10,9 @@ I enjoy combining technology, design, and real-life problem solving.
 
 ## ᓚᘏᗢ Featured Project
 
-### 🌊 Wave-Ware — Beach Shop Simulation
+### 🌊 Coral-Wave — Beach Shop Simulation
 
-WaveWare is a Python console application that simulates a beach shop experience.  
+CoralWave is a Python console application that simulates a beach shop experience.  
 Users can browse products, add items to a cart, and receive a structured receipt.
 
 
