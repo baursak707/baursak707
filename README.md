@@ -11,7 +11,7 @@ I enjoy combining technology, design, and real-life problem solving.
 
 ### 🫧 Habit Tracker App
 
-C-based console habit tracker with streak tracking, progress management, input validation, file saving, and a simple calendar view.
+C-based console application that helps users create, manage, and track their daily habits. The project allows users to add habits, mark them as completed, track streaks, save progress, and manage habit data through a simple menu-based interface.
 
 ### 🌊 Coral-Wave — Beach Shop Simulation
 
