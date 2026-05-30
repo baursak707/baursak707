@@ -15,14 +15,14 @@ Coral-Wave is a Python console application that simulates a beach shop experienc
 Users can browse products, add items to a cart, and receive a structured receipt.
 
 
-## (⌐■_■) Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,github,vscode" />
 </p>
 
 
-## (☆▽☆) Current Goals
+## Current Goals
 
 - Build more real projects
 - Learn GitHub professionally
