@@ -18,7 +18,7 @@ Users can browse products, add items to a cart, and receive a structured receipt
 ## (⌐■_■) Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,powerbi,excel,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,github,vscode" />
 </p>
 
 
