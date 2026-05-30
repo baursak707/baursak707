@@ -1,8 +1,7 @@
 <h2 align="center">
-Aspiring Sofware engineer | Creative Developer
+Aspiring Data engineer | Creative Developer
 </h2>
 
-## (👉ﾟヮﾟ)👉 About Me
 
 I am learning programming and building creative projects.  
 I enjoy combining technology, design, and real-life problem solving.
@@ -19,7 +18,7 @@ Users can browse products, add items to a cart, and receive a structured receipt
 ## (⌐■_■) Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,powerbi,excel,github,vscode" />
 </p>
 
 
