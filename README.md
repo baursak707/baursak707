@@ -9,6 +9,10 @@ I enjoy combining technology, design, and real-life problem solving.
 
 ## ᓚᘏᗢ Featured Project
 
+### 🫧 Habit Tracker App
+
+C-based console habit tracker with streak tracking, progress management, input validation, file saving, and a simple calendar view.
+
 ### 🌊 Coral-Wave — Beach Shop Simulation
 
 Coral-Wave is a Python console application that simulates a beach shop experience.  
